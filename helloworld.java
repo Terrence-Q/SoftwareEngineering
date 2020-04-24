@@ -1,6 +1,6 @@
 //回文串判断
 import javax.swing.JOptionPane;
-public class Huiwen {
+public class helloworld {
 
 	public static void main(String[] args)
 	  {
